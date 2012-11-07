@@ -1,0 +1,3 @@
+list all
+add {'Footprint':'1042', 'Description':"Added New Part", 'PartID': 'SJJ3D5', 'Quantity': 10}
+list all

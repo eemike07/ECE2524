@@ -1,0 +1,7 @@
+remove PartID=R67811
+list all
+add {'Footprint':'1042', 'Description':"Added New Part", 'PartID': 'SJJ3D5', 'Quantity': 10}
+list all
+remove Quantity=1
+list all
+list all with Quantity=1
